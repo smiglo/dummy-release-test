@@ -1,3 +1,10 @@
+## [0.1.4-next.4](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.3...v0.1.4-next.4) (2025-10-19)
+
+
+### Bug Fixes
+
+* check if exist ([7b94a06](https://github.com/smiglo/dummy-release-test/commit/7b94a0656d21605f2b2c7378b78e591c344c213d))
+
 ## [0.1.4-next.3](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.2...v0.1.4-next.3) (2025-10-19)
 
 
