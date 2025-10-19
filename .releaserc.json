@@ -34,7 +34,7 @@
       {
         "assets": [
           { "path": "build/src/hello_world", "label": "hello_world (Linux Binary)" },
-          { "path": "build/hello_world-${nextRelease.version}.tar.gz", "label": "Source Code (tar.gz)" }
+          { "path": "build/hello_world-*.tar.gz", "label": "Source Code (tar.gz)" }
         ]
       }
     ]
