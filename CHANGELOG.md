@@ -1,3 +1,10 @@
+## [0.1.3-next.1](https://github.com/smiglo/dummy-release-test/compare/v0.1.2...v0.1.3-next.1) (2025-10-19)
+
+
+### Bug Fixes
+
+* restructure the message ([46f5a54](https://github.com/smiglo/dummy-release-test/commit/46f5a5484845b1b74279db2cef2c129af83da800))
+
 ## [0.1.2](https://github.com/smiglo/dummy-release-test/compare/v0.1.1...v0.1.2) (2025-10-19)
 
 
