@@ -12,4 +12,5 @@ mkdir -p "$dist_path"
 git checkout-index -a -f --prefix="$dist_path/"
 sed -i -e '/# <VERSION_BLOCK>/,/# <\/VERSION_BLOCK>/cset(PROJECT_VERSION \"'"$version"'\")' "$dist_path/CMakeLists.txt"
 tar -czf "build/$dist_name.tar.gz" -C "build" "$dist_name"
+ls -al "build/$dist_name.tar.gz"
 
