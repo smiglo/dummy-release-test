@@ -2,6 +2,7 @@
 
 set -e
 
+set -xv
 version="${1:-0.1.0-unknown}"
 cmake -S . -B build -DPROJECT_VERSION=$version
 cmake --build build
