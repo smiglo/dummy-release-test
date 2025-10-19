@@ -18,7 +18,7 @@ if(NOT GIT_VERSION)
 endif()
 
 set(PROJECT_VERSION "${GIT_VERSION}" CACHE STRING "Project version string")
-message(STATUS "Project version set to: ${PROJECT_VERSION}")
 # </VERSION_BLOCK>
+message(STATUS "Project version set to: ${PROJECT_VERSION}")
 
 add_subdirectory(src)
