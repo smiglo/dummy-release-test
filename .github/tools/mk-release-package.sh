@@ -4,7 +4,7 @@ set -e
 
 version="${1:-0.1.0-unknown}"
 cmake -S . -B build -DPROJECT_VERSION=$version
-cmake --build build; 
+cmake --build build
 dist_name="hello_world-$version"
 dist_path="build/$dist_name"
 mkdir -p "$dist_path"
