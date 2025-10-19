@@ -1,4 +1,10 @@
+## [0.1.2](https://github.com/smiglo/dummy-release-test/compare/v0.1.1...v0.1.2) (2025-10-19)
+
+
+### Bug Fixes
+
+* one line message ([eb8c44c](https://github.com/smiglo/dummy-release-test/commit/eb8c44cae91bd1c0706daff75adb8ff8dc4754c3))
+
 # 0.1.0 (2025-10-19)
 
     * Initial version
-
