@@ -2,8 +2,7 @@
 #include "version.h"
 
 int main() {
-    std::cout << "Hello World!" << std::endl;
-    std::cout << "Version: " << PROJECT_VERSION << std::endl;
+    std::cout << "Hello World!, version: " << PROJECT_VERSION << std::endl;
     return 0;
 }
 
