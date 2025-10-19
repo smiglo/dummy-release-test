@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 project(HelloWorld)
 
+# <VERSION_BLOCK>
 find_package(Git QUIET)
 if(GIT_FOUND)
     execute_process(
@@ -18,5 +19,6 @@ endif()
 
 set(PROJECT_VERSION "${GIT_VERSION}" CACHE STRING "Project version string")
 message(STATUS "Project version set to: ${PROJECT_VERSION}")
+# </VERSION_BLOCK>
 
 add_subdirectory(src)
