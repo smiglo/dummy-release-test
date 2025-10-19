@@ -1,0 +1,24 @@
+name: CI Build and Test
+
+on:
+  push:
+    branches: [ main, next, '+([0-9])\.+([0-9])\.x-maintenance' ]
+  pull_request:
+    branches: [ main, next, '+([0-9])\.+([0-9])\.x-maintenance' ]
+
+jobs:
+  build_and_test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Configure CMake
+        run: cmake -S . -B build -D CMAKE_BUILD_TYPE=Debug
+
+      - name: Build Project
+        run: cmake --build build
+
+#      - name: Run Tests
+#        run: ctest --test-dir build

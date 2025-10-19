@@ -2,7 +2,7 @@ name: Automatic Semantic Release
 
 on:
   push:
-    branches: [ main, next ]
+    branches: [ main, next, '+([0-9])\.+([0-9])\.x-maintenance' ]
 
 jobs:
   release:
