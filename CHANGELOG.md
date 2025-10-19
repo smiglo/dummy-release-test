@@ -1,3 +1,10 @@
+## [0.1.4-next.3](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.2...v0.1.4-next.3) (2025-10-19)
+
+
+### Bug Fixes
+
+* for ci add -xv ([febc31a](https://github.com/smiglo/dummy-release-test/commit/febc31afd4759d10fb028a27ac7f0190bb44132d))
+
 ## [0.1.4-next.2](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.1...v0.1.4-next.2) (2025-10-19)
 
 
