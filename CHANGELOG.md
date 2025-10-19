@@ -1,3 +1,38 @@
+## [0.1.4-next.5](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.4...v0.1.4-next.5) (2025-10-19)
+
+
+### Bug Fixes
+
+* create asset with sources ([93e1c05](https://github.com/smiglo/dummy-release-test/commit/93e1c05f9df4c7ab2233e2e3d8b6e4151c326006))
+
+## [0.1.4-next.4](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.3...v0.1.4-next.4) (2025-10-19)
+
+
+### Bug Fixes
+
+* check if exist ([7b94a06](https://github.com/smiglo/dummy-release-test/commit/7b94a0656d21605f2b2c7378b78e591c344c213d))
+
+## [0.1.4-next.3](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.2...v0.1.4-next.3) (2025-10-19)
+
+
+### Bug Fixes
+
+* for ci add -xv ([febc31a](https://github.com/smiglo/dummy-release-test/commit/febc31afd4759d10fb028a27ac7f0190bb44132d))
+
+## [0.1.4-next.2](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.1...v0.1.4-next.2) (2025-10-19)
+
+
+### Bug Fixes
+
+* project version in release ([3815633](https://github.com/smiglo/dummy-release-test/commit/381563315111c5254e2ea8973e29c9b5687a5c8e))
+
+## [0.1.4-next.1](https://github.com/smiglo/dummy-release-test/compare/v0.1.3...v0.1.4-next.1) (2025-10-19)
+
+
+### Bug Fixes
+
+* change welcome message ([#2](https://github.com/smiglo/dummy-release-test/issues/2)) ([1c4fbcf](https://github.com/smiglo/dummy-release-test/commit/1c4fbcf88bde61f5573b4b2a4c2325961ebbcb42))
+
 ## [0.1.3](https://github.com/smiglo/dummy-release-test/compare/v0.1.2...v0.1.3) (2025-10-19)
 
 
