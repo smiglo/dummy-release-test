@@ -2,7 +2,7 @@ name: Automatic Semantic Release
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, next ]
 
 jobs:
   release:
