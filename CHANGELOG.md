@@ -1,3 +1,10 @@
+## [0.1.4-next.5](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.4...v0.1.4-next.5) (2025-10-19)
+
+
+### Bug Fixes
+
+* create asset with sources ([93e1c05](https://github.com/smiglo/dummy-release-test/commit/93e1c05f9df4c7ab2233e2e3d8b6e4151c326006))
+
 ## [0.1.4-next.4](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.3...v0.1.4-next.4) (2025-10-19)
 
 
