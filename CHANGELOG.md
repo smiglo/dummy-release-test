@@ -1,3 +1,10 @@
+## [0.1.4-next.2](https://github.com/smiglo/dummy-release-test/compare/v0.1.4-next.1...v0.1.4-next.2) (2025-10-19)
+
+
+### Bug Fixes
+
+* project version in release ([3815633](https://github.com/smiglo/dummy-release-test/commit/381563315111c5254e2ea8973e29c9b5687a5c8e))
+
 ## [0.1.4-next.1](https://github.com/smiglo/dummy-release-test/compare/v0.1.3...v0.1.4-next.1) (2025-10-19)
 
 
