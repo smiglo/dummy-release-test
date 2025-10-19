@@ -9,5 +9,6 @@ while [[ ! -z $1 ]]; do
 done
 
 [[ -e $bdir ]] || cmake -B $bdir "$@"
-cmake --build $bdir
+cmake --build $bdir || exit 1
+./$bdir/src/hello_world
 

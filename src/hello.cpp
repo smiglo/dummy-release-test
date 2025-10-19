@@ -1,8 +1,9 @@
-#include <stdio.h>
+#include <iostream>
+#include "version.h"
 
-int main()
-{
-  printf("Hello\n");
-  return 0;
+int main() {
+    std::cout << "Hello World!" << std::endl;
+    std::cout << "Version: " << PROJECT_VERSION << std::endl;
+    return 0;
 }
 
